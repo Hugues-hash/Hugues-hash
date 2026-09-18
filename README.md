@@ -1,8 +1,10 @@
 # Kokou Hugues Minasseh
 
-**MSc Artificial Intelligence and Data Science, University of Hull.** I build and validate models for financial markets, with a focus on model risk, market risk, and model reliability. I am aiming for a career in quantitative risk and model validation.
+**Commonwealth Scholar · MSc Artificial Intelligence and Data Science, University of Hull.** I build and validate models for financial markets, with a focus on model risk, market risk, and model reliability. I am targeting UK graduate schemes in quantitative risk and model validation.
 
-My background is in engineering, and I came to data science through statistical modelling and machine learning. What interests me most is not just building a model, but proving it is sound: the independent, sceptical checking that must be done before a model is trusted.
+My MSc was funded by a Commonwealth Scholarship, a competitive scholarship awarded by the UK Government (FCDO) on academic merit and leadership potential.
+
+My background is in engineering, and I came to data science through statistical modelling and machine learning. What interests me most is not just building a model, but proving it is sound: the independent, sceptical checking that a bank's model risk team does before a model is trusted.
 
 ---
 
@@ -49,4 +51,5 @@ Coursework projects from the MSc at Hull. These are kept separate from the quant
 - Email: mink_hugues@outlook.com
 - GitHub: [github.com/Hugues-hash](https://github.com/Hugues-hash)
 - LinkedIn: www.linkedin.com/in/kokou-hugues-minasseh-b426591b8
+- Website: https://hugues-hash.github.io/
 - Based in Hull, UK
