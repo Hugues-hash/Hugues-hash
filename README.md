@@ -40,9 +40,12 @@ Coursework projects from the MSc at Hull. These are kept separate from the quant
 ## Technical toolkit
 
 **Languages:** Python, C++, SQL
+
 **Machine learning:** supervised and unsupervised methods, time-series modelling, deep learning (LSTM, Transformer), NLP, model evaluation and selection
+
 **Quant and risk methods:** GARCH / GJR / EGARCH, Hidden Markov Models, Monte Carlo simulation, Value at Risk with Kupiec and Christoffersen backtests, PSI / KS / KL drift monitoring, backtesting with Sharpe and drawdown
-**Libraries and tools:** pandas, NumPy, scikit-learn, TensorFlow, arch, hmmlearn, Matplotlib, CMake, pybind11, Git, Jupyter, Power BI
+
+**Libraries and tools:** pandas, NumPy, scikit-learn, TensorFlow, arch, hmmlearn, Matplotlib, CMake, pybind11, Git, Jupyter
 
 ---
 
