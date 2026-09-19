@@ -1,6 +1,6 @@
 # Kokou Hugues Minasseh
 
-**Commonwealth Scholar · MSc Artificial Intelligence and Data Science, University of Hull.** I build and validate models for financial markets, with a focus on model risk, market risk, and model reliability. I am targeting UK graduate schemes in quantitative risk and model validation.
+**Commonwealth Scholar · MSc Artificial Intelligence and Data Science, University of Hull.** I build and validate models for financial markets, with a focus on model risk, market risk, and model reliability.
 
 My MSc was funded by a Commonwealth Scholarship, a competitive scholarship awarded by the UK Government (FCDO) on academic merit and leadership potential.
 
