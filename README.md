@@ -33,7 +33,7 @@ Coursework projects from the MSc at Hull. These are kept separate from the quant
 - Traffic Accident Data Mining and Time-Series Forecasting: spatiotemporal analysis, association rule mining, clustering, and weekly forecasting on UK road accident data.
 - NLP Classification with Deep Learning: traditional models (Naive Bayes, SVM) compared with LSTM and Transformer architectures for text classification.
 - Predictive Modelling and Customer Behaviour Analysis: regression and classification on structured data, evaluated with AUC-ROC and F1.
-- Census Data Analysis and Statistical Decision-Making: hypothesis testing, imputation, and statistical inference on population data.
+- [Census Data Analysis and Statistical Decision-Making](https://github.com/Hugues-hash/msc-census-data-analysis): hypothesis testing, imputation, and statistical inference on population data.
 
 ---
 
